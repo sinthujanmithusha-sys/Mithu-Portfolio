@@ -665,28 +665,6 @@ function App() {
             </a>
 
 
-            {/* PHONE */}
-
-            <a
-              href="tel:+94741213202"
-              className="contact-card"
-            >
-
-              <div className="contact-icon">
-                ☎
-              </div>
-
-              <div>
-                <span>Phone</span>
-
-                <strong>
-                  +94 74 121 3202
-                </strong>
-              </div>
-
-            </a>
-
-
             {/* LINKEDIN */}
 
             <a
